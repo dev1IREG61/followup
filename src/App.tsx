@@ -18,7 +18,6 @@ function App() {
       const path = window.location.pathname;
       const hash = window.location.hash;
 
-      // Debug pages
       if (
         path.includes("/debug-features") ||
         hash.includes("#debug-features")
