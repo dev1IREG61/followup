@@ -29,7 +29,7 @@ const Benefits: React.FC<BenefitsProps> = ({ data }) => {
     },
     {
       id: 2,
-      title: "Reduce Errors & Ensure Compliance",
+      title: "Improve Accuracy",
       description:
         "Our built-in validation checks ensure IRS compliance and eliminate costly filing errors.",
       stats: "99% Accuracy",
