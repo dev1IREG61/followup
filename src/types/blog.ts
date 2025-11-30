@@ -143,7 +143,7 @@ export interface BlogPostApiResponse {
 const isDevelopment = import.meta.env.DEV;
 const frontendUrl = isDevelopment
   ? "http://localhost:5173"
-  : "http://w9chaser.com";
+  : "https://followupcop.com";
 
 const baseApiUrl = isDevelopment
   ? "/blogs/api/v2"
