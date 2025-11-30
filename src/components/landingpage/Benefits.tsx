@@ -20,7 +20,7 @@ const Benefits: React.FC<BenefitsProps> = ({ data }) => {
   const sampleBenefits = [
     {
       id: 1,
-      title: "Save Time & Increase Efficiency",
+      title: "Save Time",
       description:
         "Automate your tax form processes and reduce manual work by up to 80% with our streamlined platform.",
       stats: "80% Faster",
